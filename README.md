@@ -3,6 +3,12 @@
 An interactive CLI that stands up a full [NYCU SDC Core System](https://github.com/NYCU-SDC)
 on your own machine.
 
+![Demo](demo/demo.gif)
+
+The container build is cut from the recording — it takes several minutes the first time,
+and is nothing but compiler output. Everything else runs at the speed you see. The
+credentials typed in are fake. See [demo/README.md](demo/README.md) to re-record it.
+
 ## Requirements
 
 - **Docker** with Compose v2 (`docker compose`, not `docker-compose`)
