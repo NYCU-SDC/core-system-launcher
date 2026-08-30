@@ -30,12 +30,27 @@ wraps all of that into one command.
 
 ## Quick start
 
-Download a binary from [Releases](https://github.com/NYCU-SDC/core-system-launcher/releases),
-or build it yourself:
+Grab the binary for your platform. Replace `darwin_arm64` with `darwin_amd64`,
+`linux_arm64` or `linux_amd64` as needed:
+
+```bash
+curl -Lo core-system-launcher \
+  https://github.com/NYCU-SDC/core-system-launcher/releases/latest/download/core-system-launcher_darwin_arm64
+chmod +x core-system-launcher
+./core-system-launcher
+```
+
+macOS may refuse to run an unsigned download. Either right-click it in Finder and choose
+Open once, or clear the quarantine flag:
+
+```bash
+xattr -d com.apple.quarantine core-system-launcher
+```
+
+Building it yourself works too, and needs nothing but a Go toolchain:
 
 ```bash
 go build -o core-system-launcher .
-./core-system-launcher
 ```
 
 The first run asks three things — the public port, the admin email, and how you want to

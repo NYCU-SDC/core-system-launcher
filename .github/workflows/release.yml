@@ -74,6 +74,9 @@ jobs:
         with:
           go-version: "1.24"
 
+      # Bare binaries rather than archives: one fewer step for whoever downloads
+      # them. They still need chmod +x, which an archive would have preserved,
+      # but that is easier to explain than an extract step.
       - name: Build
         run: |
           set -euo pipefail
@@ -81,20 +84,18 @@ jobs:
           mkdir -p dist
           for target in darwin/arm64 darwin/amd64 linux/arm64 linux/amd64; do
             os="${target%/*}" arch="${target#*/}"
-            name="core-system-launcher_${version}_${os}_${arch}"
+            name="core-system-launcher_${os}_${arch}"
             echo "building $name"
             CGO_ENABLED=0 GOOS="$os" GOARCH="$arch" go build \
               -ldflags="-s -w -X 'main.Version=${version}'" \
-              -o "dist/${name}/core-system-launcher" .
-            tar -czf "dist/${name}.tar.gz" -C "dist/${name}" core-system-launcher
-            rm -rf "dist/${name}"
+              -o "dist/${name}" .
           done
-          (cd dist && sha256sum *.tar.gz > checksums.txt)
+          (cd dist && sha256sum core-system-launcher_* > checksums.txt)
 
       - name: Publish release
         uses: softprops/action-gh-release@v2
         with:
           files: |
-            dist/*.tar.gz
+            dist/core-system-launcher_*
             dist/checksums.txt
           generate_release_notes: true
