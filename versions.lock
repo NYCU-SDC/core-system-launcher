@@ -1,0 +1,13 @@
+# Commits pinned for each core system repo.
+# The launcher checks these out and then applies the changes under patches/.
+#
+# To follow upstream: swap in the new commits and run `up --rebuild`.
+# If a patch no longer applies, the CLI names the one that conflicted.
+
+backend  = b496ab4c04a8c5e19d4c85d67c8e8565c98cd26d
+frontend = 6ad9a8f93f529b0a94e8e3c8ebbfa7694931a5b9
+
+# api takes no part in the build (the frontend consumes the published
+# @nycu-sdc/core-system-sdk from npm). It is recorded only so the matching
+# contract version is easy to look up when tracking down a problem.
+api      = 4065f60ef2531024d5c4367821d81c6f9d6d6991

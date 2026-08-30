@@ -1,0 +1,57 @@
+diff --git a/src/features/auth/hooks/useAuth.ts b/src/features/auth/hooks/useAuth.ts
+index df59dc4..fe1f0e4 100644
+--- a/src/features/auth/hooks/useAuth.ts
++++ b/src/features/auth/hooks/useAuth.ts
+@@ -5,12 +5,41 @@ import { authRefreshToken } from "@nycu-sdc/core-system-sdk";
+ import { useMutation, useQuery, useQueryClient } from "@tanstack/react-query";
+ import { useEffect } from "react";
+ 
+-const DEFAULT_AUTH_REFRESH_INTERVAL = 10 * 1000;
++// Access token 存活 15 分鐘，這裡留足夠的餘裕在它過期前換發。
++const DEFAULT_AUTH_REFRESH_INTERVAL = 10 * 60 * 1000;
++
++// 後端的 /auth/refresh 會 rotate refresh token：舊的先 inactivate，再發新的。
++// 兩個併發的 refresh 會讓其中一個拿到已失效的 token 而被登出，
++// 所以同一時間只允許一個 refresh in flight。
++let inFlightRefresh: Promise<boolean> | null = null;
++
++export const refreshSession = (): Promise<boolean> => {
++	if (inFlightRefresh) return inFlightRefresh;
++
++	inFlightRefresh = authRefreshToken({ credentials: "include" })
++		.then(res => res.status >= 200 && res.status < 300)
++		.catch(() => false)
++		.finally(() => {
++			inFlightRefresh = null;
++		});
++
++	return inFlightRefresh;
++};
+ 
+ export const useMe = () =>
+ 	useQuery({
+ 		queryKey: userKeys.me,
+-		queryFn: () => authService.getCurrentUser()
++		queryFn: async () => {
++			try {
++				return await authService.getCurrentUser();
++			} catch (error) {
++				// Access token 可能已經過期（例如分頁擱置很久後才回來）。
++				// 先用 refresh token 換一次再重試，換不到才真的當作未登入。
++				const refreshed = await refreshSession();
++				if (!refreshed) throw error;
++				return await authService.getCurrentUser();
++			}
++		}
+ 	});
+ 
+ export const useLogout = () =>
+@@ -39,7 +68,7 @@ export const useAuth = () => {
+ export const useAuthRefreshInterval = () => {
+ 	useEffect(() => {
+ 		const interval = setInterval(() => {
+-			authRefreshToken();
++			refreshSession();
+ 		}, DEFAULT_AUTH_REFRESH_INTERVAL);
+ 
+ 		return () => clearInterval(interval);

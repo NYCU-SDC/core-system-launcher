@@ -1,0 +1,6426 @@
+[
+ {
+  "title": "SDC 註冊表單 - 2025",
+  "previewMessage": "SDC 秋季招募註冊表單",
+  "description": {
+   "type": "doc",
+   "content": [
+    {
+     "type": "heading",
+     "attrs": {
+      "level": 3
+     },
+     "content": [
+      {
+       "text": "🌟 Welcome to SDC, the Software Development Club! 🌟",
+       "type": "text"
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "content": [
+      {
+       "text": "我們是陽明交大軟體開發社（NYCU SDC），旨在聚集交清人才，加速推動兩校在資訊領域的發展，同時引領更多的新人（不限科系）成為人才，♾️ 循環。",
+       "type": "text"
+      }
+     ]
+    },
+    {
+     "type": "paragraph"
+    },
+    {
+     "type": "paragraph",
+     "content": [
+      {
+       "text": "更多資訊請關注 SDC Instagram @nycu_sdc",
+       "type": "text"
+      }
+     ]
+    },
+    {
+     "type": "paragraph"
+    },
+    {
+     "type": "bullet_list",
+     "content": [
+      {
+       "type": "list_item",
+       "content": [
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "請使用您主要的 Google 帳號進行填寫，以便日後聯絡順利。",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "list_item",
+       "content": [
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "此表單內容提交後皆可修改，請安心填寫。",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  "messageAfterSubmission": "",
+  "visibility": "PUBLIC",
+  "sections": [
+   {
+    "title": "基本資料",
+    "description": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "paragraph"
+      }
+     ]
+    },
+    "questions": [
+     {
+      "title": "姓名",
+      "type": "SHORT_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      }
+     },
+     {
+      "title": "英文姓名",
+      "type": "SHORT_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "建議填寫用於正式身份文件之外文姓名或別名，參考格式：",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "bullet_list",
+         "content": [
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "XIAO-MING WANG",
+               "type": "text"
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "Wang, Xiao-Ming",
+               "type": "text"
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "Adam Wang",
+               "type": "text"
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "Adam Xiao-Ming Wang",
+               "type": "text"
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "title": "暱稱",
+      "type": "SHORT_TEXT",
+      "required": false,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "title": "Program Overview & 招募時程",
+    "description": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "heading",
+       "attrs": {
+        "level": 3
+       },
+       "content": [
+        {
+         "text": "𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐬",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "bullet_list",
+       "content": [
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "Full Stack Intro",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "Full Stack Advanced",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "type": "paragraph"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "heading",
+       "attrs": {
+        "level": 3
+       },
+       "content": [
+        {
+         "text": "𝐓𝐞𝐚𝐦𝐬",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "bullet_list",
+       "content": [
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "High Performance Computing Team",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "Clustron Project Team",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "Core System Project Team",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "heading",
+       "attrs": {
+        "level": 3
+       },
+       "content": [
+        {
+         "text": "招募時程",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "bullet_list",
+       "content": [
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "9/1 (Mon.) ~ 9/14 (Sun.) 23:59 註冊表單開放",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "9/3 (Wed.) SDC Summit 社員大會暨迎新茶會",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "9/14 (Sun.) 23:59 報名截止",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "9/19 (Fri.) Program Match 完成並寄送錄取信",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    "questions": []
+   },
+   {
+    "title": "學籍資料",
+    "description": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "paragraph"
+      }
+     ]
+    },
+    "questions": [
+     {
+      "title": "就讀/畢業學校",
+      "type": "SINGLE_CHOICE",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "bullet_list",
+         "content": [
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "若為學生，請填 目前就讀 之學校全名",
+               "type": "text"
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "若非學生，請填 畢業 之學校全名",
+               "type": "text"
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "e.g., 國立臺灣大學",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      "choices": [
+       {
+        "name": "國立陽明交通大學"
+       },
+       {
+        "name": "國立清華大學"
+       },
+       {
+        "name": "",
+        "isOther": true
+       }
+      ]
+     },
+     {
+      "title": "就讀/畢業系所",
+      "type": "SHORT_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "bullet_list",
+         "content": [
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "若為學生請填，就讀系所全名",
+               "type": "text"
+              }
+             ]
+            },
+            {
+             "type": "bullet_list",
+             "content": [
+              {
+               "type": "list_item",
+               "content": [
+                {
+                 "type": "paragraph",
+                 "content": [
+                  {
+                   "text": "資訊工程學系、百川學士學位學程、經營管理碩士在職專班",
+                   "type": "text"
+                  }
+                 ]
+                }
+               ]
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "若非學生請填 畢業系所全名",
+               "type": "text"
+              }
+             ]
+            },
+            {
+             "type": "bullet_list",
+             "content": [
+              {
+               "type": "list_item",
+               "content": [
+                {
+                 "type": "paragraph",
+                 "content": [
+                  {
+                   "text": "數據科學與工程研究所、電控工程研究所",
+                   "type": "text"
+                  }
+                 ]
+                }
+               ]
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "title": "學號",
+      "type": "SHORT_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "若非學生請填無",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "title": "入學年份",
+      "type": "SHORT_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "請填入學年份（西元），若非學生請填無",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "e.g., 2023",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "title": "畢業年份",
+      "type": "SHORT_TEXT",
+      "required": false,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "bullet_list",
+         "content": [
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "若為學生請填預計畢業年份（西元）",
+               "type": "text"
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "若非學生請填畢業年份（西元）",
+               "type": "text"
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "e.g., 2026",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "title": "聯絡方式與帳號",
+    "description": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "paragraph"
+      }
+     ]
+    },
+    "questions": [
+     {
+      "title": "GitHub",
+      "type": "HYPERLINK",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "bullet_list",
+         "content": [
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "請提供連結",
+               "type": "text"
+              }
+             ]
+            },
+            {
+             "type": "bullet_list",
+             "content": [
+              {
+               "type": "list_item",
+               "content": [
+                {
+                 "type": "paragraph",
+                 "content": [
+                  {
+                   "text": "https://github.com/NYCU-SDC/",
+                   "type": "text"
+                  }
+                 ]
+                }
+               ]
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "社團各式專案與訓練皆會使用到 GitHub，同時也會將 GitHub 提供給 Program Hosts。若無可先填「https://github.com/無」，此表單可編輯。",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "title": "Discord username",
+      "type": "SHORT_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "bullet_list",
+         "content": [
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "請提供使用者名稱（username），非顯示名稱（display name）或 ID",
+               "type": "text"
+              }
+             ]
+            },
+            {
+             "type": "bullet_list",
+             "content": [
+              {
+               "type": "list_item",
+               "content": [
+                {
+                 "type": "paragraph",
+                 "content": [
+                  {
+                   "text": "nycu_sdc",
+                   "type": "text"
+                  }
+                 ]
+                }
+               ]
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "社團主要聯絡方式皆會以 Discord + Mail 為主。若無可先填無，此表單可編輯。",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "title": "Notion 帳號",
+      "type": "SHORT_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "bullet_list",
+         "content": [
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "請提供註冊的 Email 帳號",
+               "type": "text"
+              }
+             ]
+            },
+            {
+             "type": "bullet_list",
+             "content": [
+              {
+               "type": "list_item",
+               "content": [
+                {
+                 "type": "paragraph",
+                 "content": [
+                  {
+                   "text": "contact@sdc.nycu.club",
+                   "type": "text"
+                  }
+                 ]
+                }
+               ]
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "若尚無，請先至 Notion 網站註冊。社團各教材、文件皆會存放於 Notion Workspace 中。",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "title": "Telegram username",
+      "type": "SHORT_TEXT",
+      "required": false,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "bullet_list",
+         "content": [
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "請提供使用者名稱（username），非顯示名稱（name）",
+               "type": "text"
+              }
+             ]
+            },
+            {
+             "type": "bullet_list",
+             "content": [
+              {
+               "type": "list_item",
+               "content": [
+                {
+                 "type": "paragraph",
+                 "content": [
+                  {
+                   "text": "@nycu_sdc",
+                   "type": "text"
+                  }
+                 ]
+                }
+               ]
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "特定 Team 可能會使用 Telegram 進行聯絡。若無可先填無，此表單可編輯。",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "title": "關於你",
+    "description": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "paragraph"
+      }
+     ]
+    },
+    "questions": [
+     {
+      "title": "是否已看過 SDC Summit？",
+      "type": "SINGLE_CHOICE",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "bullet_list",
+         "content": [
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "如果還沒看過，歡迎點擊連結進行觀看",
+               "type": "text"
+              }
+             ]
+            },
+            {
+             "type": "bullet_list",
+             "content": [
+              {
+               "type": "list_item",
+               "content": [
+                {
+                 "type": "paragraph",
+                 "content": [
+                  {
+                   "text": "https://url.sdc.nycu.club/sdc-summit-2025-video",
+                   "type": "text"
+                  }
+                 ]
+                }
+               ]
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      "choices": [
+       {
+        "name": "是"
+       },
+       {
+        "name": "否"
+       }
+      ]
+     },
+     {
+      "title": "個人簡述",
+      "type": "LONG_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "可以簡單說一下怎麼知道 SDC、聽到怎麼樣計畫感興趣、對 SDC 有什麼期待，或是其他你想說的話或自我介紹！",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "title": "SDC Summit 社員大會暨迎新茶會",
+    "description": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "SDC Summit 將介紹 Programs & Teams 的內容與運作方式。想認識各個厲害的 Hosts，或好奇 SDC 所有 Technical Stack 的同學，歡迎在 SDC Summit 找我們聊天唷！",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "bullet_list",
+       "content": [
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "時間：9/3 (Wed.) 18:00 ~ 21:00",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "地點：國立陽明交通大學工程三館 EC122",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "錄影連結：",
+             "type": "text"
+            },
+            {
+             "text": "https://url.sdc.nycu.club/sdc-summit-2025-video",
+             "type": "text",
+             "marks": [
+              {
+               "type": "link",
+               "attrs": {
+                "rel": "noopener noreferrer",
+                "href": "https://url.sdc.nycu.club/sdc-summit-2025-video",
+                "class": null,
+                "target": "_blank"
+               }
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    "questions": []
+   },
+   {
+    "title": "Full Stack Intro. Training Program",
+    "description": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "Full Stack Intro. 將帶大家從零開始認識前後端開發，非常歡迎對於前後端零基礎的學員加入！",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "在一學年的課程中，上學期會著重在前端開發：從環境設定、HTML、CSS、JavaScript 等基礎打好地基，並逐步學習版面切版、網頁動態效果實作，讓大家都能獨立完成屬於自己、能「動起來」的互動式履歷網站！ 下學期則帶大家入門後端開發：學習HTTP、RESTful API、Database 等基礎以及前後端整合，讓個人網站可以和訪客互動。",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "期待和大家一同踏上這趟從零開始的學習旅程，親手打造出屬於自己的完整網站！",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "bullet_list",
+       "content": [
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "時間：每週三 18:30 ~ 21:30",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    "questions": [
+     {
+      "title": "[I] 是否報名 Full Stack Intro. Training Program？",
+      "type": "SINGLE_CHOICE",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      },
+      "choices": [
+       {
+        "name": "是"
+       },
+       {
+        "name": "否"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "title": "Full Stack Intro. 甄選題目",
+    "description": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "paragraph"
+      }
+     ]
+    },
+    "questions": [
+     {
+      "title": "[I] 1. 請寫出你接觸過的程式語言",
+      "type": "SHORT_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      }
+     },
+     {
+      "title": "[I] 2. 請簡述什麼是「變數」",
+      "type": "SHORT_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "限 20 字內",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "title": "[I] 3. 請簡述什麼是「函式」",
+      "type": "SHORT_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "限 20 字內",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "title": "[I] 4-1. HTML 負責的部分",
+      "type": "SINGLE_CHOICE",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "在建立網站系統時，前端三劍客分別負責：",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "bullet_list",
+         "content": [
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "結構：描述網站內容與結構",
+               "type": "text"
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "樣式：設定並設計網站的外觀",
+               "type": "text"
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "互動：讓網站具備互動與動態功能",
+               "type": "text"
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      "choices": [
+       {
+        "name": "結構"
+       },
+       {
+        "name": "樣式"
+       },
+       {
+        "name": "互動"
+       }
+      ]
+     },
+     {
+      "title": "[I] 4-2. CSS 負責的部分",
+      "type": "SINGLE_CHOICE",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      },
+      "choices": [
+       {
+        "name": "結構"
+       },
+       {
+        "name": "樣式"
+       },
+       {
+        "name": "互動"
+       }
+      ]
+     },
+     {
+      "title": "[I] 4-3. JavaScript 負責的部分",
+      "type": "SINGLE_CHOICE",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      },
+      "choices": [
+       {
+        "name": "結構"
+       },
+       {
+        "name": "樣式"
+       },
+       {
+        "name": "互動"
+       }
+      ]
+     },
+     {
+      "title": "[I] 5. 你希望能在這門 Program 學到什麼？",
+      "type": "LONG_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      }
+     },
+     {
+      "title": "[I] 6. 想跟我們說的話！",
+      "type": "LONG_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "title": "Full Stack Advanced Training Program",
+    "description": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "Full Stack Advanced 會學習實務開發中，更常被使用的技術線。 上學期課程將帶著大家認識 React，並能學會切版、UI 實作、串接 API、OAuth 等，以及更多跟 React 息息相關的工具。 下學期則會讓大家學習 Golang 開發後端，透過 Golang 能更加瞭解後端的背後實作，簡單從 database，深到 middleware、OAuth 的原理。",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "bullet_list",
+       "content": [
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "時間：每週三 18:30 ~ 21:30",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    "questions": [
+     {
+      "title": "[A] 是否報名 Full Stack Advanced Training Program？",
+      "type": "SINGLE_CHOICE",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      },
+      "choices": [
+       {
+        "name": "是"
+       },
+       {
+        "name": "否"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "title": "Full Stack Advanced 甄選題目",
+    "description": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "paragraph"
+      }
+     ]
+    },
+    "questions": [
+     {
+      "title": "[A] 1. 有用過純 HTML、CSS、JavaScript 或是搭配框架開發過嗎，是做什麼樣的網頁？",
+      "type": "LONG_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "可以的話請提供 GitHub 連結或實際的網頁",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "title": "[A] 2. 如何用 CSS 做出置中 div？",
+      "type": "LONG_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "詳見下方圖片",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "（原表單此處附有示意圖，core system 的題目描述目前無法內嵌圖片）",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "title": "[A] 3. 請解釋 Request Header 的功能是什麼？",
+      "type": "LONG_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      }
+     },
+     {
+      "title": "[A] 4. 請解釋 JavaScript 中的 async / await",
+      "type": "LONG_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      }
+     },
+     {
+      "title": "[A] 5. 希望透過這門 Program 學到什麼？",
+      "type": "LONG_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "title": "High Performance Computing Team",
+    "description": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "heading",
+       "attrs": {
+        "level": 3
+       },
+       "content": [
+        {
+         "text": "Team Intro.",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "HPC Team 專注在叢集建立與維運、系統與函式庫調校、平行與 GPU 程式設計，以及 CPU/GPU/AI 加速與架構。除了以參加超算競賽為目標（HiPAC、ISC、ASC、SC），團隊亦在程式效能最佳化方面持續投入研究。",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "heading",
+       "attrs": {
+        "level": 3
+       },
+       "content": [
+        {
+         "text": "Technical Stack",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "Parallel Programming",
+         "type": "text",
+         "marks": [
+          {
+           "type": "bold"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "bullet_list",
+       "content": [
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "Multi-threading: pthread, OpenMP",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "Multi-process: OpenMPI, MPICH",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "GPU: OpenACC, CUDA, ROCm",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "System",
+         "type": "text",
+         "marks": [
+          {
+           "type": "bold"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "bullet_list",
+       "content": [
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "Benchmarking: Netlib HPL, NVIDIA HPC Benchmark",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "Network: InfiniBand, Soft-RoCE, NFSoRDMA",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "Automatically: Ansible",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "Observability: Grafana, NetHogs, Monitorix, Arpwatch",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    "questions": [
+     {
+      "title": "[H] 是否報名 High Performance Computing Team？",
+      "type": "SINGLE_CHOICE",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      },
+      "choices": [
+       {
+        "name": "是"
+       },
+       {
+        "name": "否"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "title": "HPC Team 甄選題目",
+    "description": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "［註1］以下問題皆為開放式問題，無絕對答案，請不用拘泥於正確答案。",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "［註2］歡迎使用 GenAI 、 Search Engine 等工具協助你回答，但請不要直接複製貼上，我們看得出來。",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    },
+    "questions": [
+     {
+      "title": "[H] 1. 你認為 HPC 這個領域在做什麼？可以就你對 HPC 領域的想像進行描述。",
+      "type": "LONG_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      }
+     },
+     {
+      "title": "[H] 2. 承上題，以你對 HPC 領域的想像，以及對「競賽程式」的認識，說明兩領域的差別、關係或相似之處。",
+      "type": "LONG_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      }
+     },
+     {
+      "title": "[H] 3. 你認為那些領域會需要 HPC，或對 HPC 領域有高度需求？",
+      "type": "SHORT_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      }
+     },
+     {
+      "title": "[H] 4. 你認為 HPC 的 domain knowledge 有哪些？",
+      "type": "LONG_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "title": "Clustron & Core System Project Teams",
+    "description": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "開發部（Engineering Department）致力於提供 Project Team 在產品開發中的各項支持，包括但不限於整合計算資源、統一佈署流程（CI/CD）和配套的訓練計畫。",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "除此之外，我們也協助 Project Team 導入現代化的工程方法，透過敏捷流程、程式碼審查以及以 Cloud Native 為核心的系統設計理念 ，來確保產品的可靠與可持續。",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "我們強調從一開始就以真實世界的標準打造產品，讓團隊不僅能快速迭代，更能在面對規模成長與需求變化時保持穩定與彈性。",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "最後，我們也相信「邊做邊學」是最快的成長方式，開發部的訓練計畫會與實際的開發需求緊密結合，並且針對 0 基礎而設計。不用擔心缺乏經驗，只要願意投入時間，我們會幫助你從最基本的觀念開始累積，直到能夠獨立解決問題，並在真實專案中發揮關鍵影響力！",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "heading",
+       "attrs": {
+        "level": 3
+       },
+       "content": [
+        {
+         "text": "Technical Stack",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "bullet_list",
+       "content": [
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "Frontend: React",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "Backend: Golang, PostgreSQL",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "Monitoring: Grafana, OpenTelemetry",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "Platform / Tools: Proxmox VE, Docker, Kubernetes",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "Project Management: Jira, Confluence",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "type": "paragraph"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "heading",
+       "attrs": {
+        "level": 2
+       },
+       "content": [
+        {
+         "text": "Core System Project Team ",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "heading",
+       "attrs": {
+        "level": 3
+       },
+       "content": [
+        {
+         "text": "Team Intro.",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "企業行政系統（ERP）的出現改變了許多公司的管理方式，讓企業能在同一套系統裡處理財務、人事與各種流程，是邁向規模化的關鍵基礎。但對擁有類似需求的社團、研討會和志工團體來說，它卻顯得昂貴、複雜又不合時宜。",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "Core System 立志填補這塊真空。我們要打造的不僅是另一套 ERP，而是 ERP 本質上無法辦到的事情：以人為主體、組織之間互通有無的平台。不再是把人當成「角色」或「資源」，而是作為參與者去探索各式各樣的組織與活動。",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "我們將從 SDC（社員 140+）的行政需求開始著手，接著逐漸擴張到更多社群、研討會與志工團體。先解決包含但不限於管理各平台權限、發布公告 / 行事曆、財務報帳、招募 / Team Match 和社課簽到等等瑣碎的作業。讓社員也能夠一站式完成大部分行政操作，不必再在表單、試算表和群組訊息間來回切換，把時間專注在真正有價值的活動與交流上。",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "heading",
+       "attrs": {
+        "level": 2
+       },
+       "content": [
+        {
+         "text": "Clustron Project Team",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "heading",
+       "attrs": {
+        "level": 3
+       },
+       "content": [
+        {
+         "text": "Team Intro.",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "將一台配備 4 張資料中心級 GPU 的伺服器從鐵磚塊，轉變成能被團隊使用的生產力工具，對研究單位來說已是不小的維運成本。那假如是多台伺服器組成的 GPU / FPGA 叢集呢？如果還需要額外維護 Slurm 這類排程系統，再加上虛擬機環境與 LDAP 等使用者管理機制，問題就不再只是單純的能不能用，而是整個團隊是否負擔得起管理的代價。",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "這類矛盾其實無處不在，實驗室有機器，團隊有需求，但缺乏一個有效連結兩端的橋樑。Clustron 要打造的就是這座橋樑，透過集中託管與可視化介面，平台能將複雜的資源管理轉化為直觀的操作，讓任何人都能輕鬆提交工作、監控進度，甚至跨組織共享資源。",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "而且借助 HPC Team 的專業知識和實務經驗，我們也得以跨越平常開發者難以同時掌握的技術門檻，去解決橫跨硬體、系統與應用的斷層，讓高效能運算真正落地。",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    },
+    "questions": [
+     {
+      "title": "[P] 是否報名 Project Teams（Core System / Clustron）？",
+      "type": "SINGLE_CHOICE",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      },
+      "choices": [
+       {
+        "name": "是"
+       },
+       {
+        "name": "否"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "title": "Project Team 甄選題目",
+    "description": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "paragraph"
+      }
+     ]
+    },
+    "questions": [
+     {
+      "title": "[P] 1. 您感興趣的 Project Team（請排志願序）",
+      "type": "RANKING",
+      "required": false,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "bullet_list",
+         "content": [
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "請填寫您的志願序",
+               "type": "text"
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "若只對單一 Project 感興趣，請將該列留空",
+               "type": "text"
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      "choices": [
+       {
+        "name": "Core System Project Team"
+       },
+       {
+        "name": "Clustron Project Team"
+       }
+      ]
+     },
+     {
+      "title": "[P] 2. 您對什麼類型的任務內容感興趣？",
+      "type": "MULTIPLE_CHOICE",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "若報名 Project Team，以下回答請至少擇一",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      "choices": [
+       {
+        "name": "前端"
+       },
+       {
+        "name": "後端"
+       },
+       {
+        "name": "DevOps"
+       },
+       {
+        "name": "UI/UX 設計（Figma 等）"
+       }
+      ]
+     },
+     {
+      "title": "[P] 3. 你為什麼想加入 Project Team？",
+      "type": "LONG_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      }
+     },
+     {
+      "title": "[P] 4. 請分享一段你自學一項技能或解決問題的經驗",
+      "type": "LONG_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "有任何你印象深刻的環節、或是這之中你認為必不可少的要素嗎？不一定要與程式設計相關，任何領域都可以。",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "title": "[P] 5. 請分享一段你過去團隊合作上的經驗",
+      "type": "LONG_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "若沒有類似經驗，也可以談談你認為團隊合作中什麼最重要。",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "title": "[P] 6. 您預計每週投入多少時間或是目前的時間規劃 ",
+      "type": "LONG_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "Project Team 目前的工作模式為每週投入至少 4-6 hr ，每週一次進度 Demo",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "title": "[P] 7. 作品或足跡",
+      "type": "LONG_TEXT",
+      "required": false,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "放上其中之一即可：",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "bullet_list",
+         "content": [
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "GitHub",
+               "type": "text"
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "簡短截圖",
+               "type": "text"
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "筆記連結",
+               "type": "text"
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "心得文",
+               "type": "text"
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "任何領域都可以，不限資訊領域，若無可跳過。",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "title": "[P] 8. 請閱讀以下說明",
+      "type": "SINGLE_CHOICE",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "我們會視表單內容寄信與您安排面談。面談通過後，將有為期 7 週的訓練計畫。",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      "choices": [
+       {
+        "name": "我已了解面談與訓練計畫內容"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "title": "Program Match",
+    "description": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "若無參加該 Program 之意願，請將該列留空",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "Note: Teams 將另外招生，不會參與 Program Match，報名 Teams 的成員我們將另外進行聯絡",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "下圖表示將 Full Stack Intro. 排在第一志願，並且無參加 Full Stack Advanced 之意願",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "（原表單此處附有志願序填寫範例圖，core system 目前無法內嵌圖片）",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    },
+    "questions": [
+     {
+      "title": "Program 志願序",
+      "type": "RANKING",
+      "required": false,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "若無參加意願，請將該列留空",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      "choices": [
+       {
+        "name": "Full Stack Intro."
+       },
+       {
+        "name": "Full Stack Advanced"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "workflow": [
+   {
+    "type": "START",
+    "label": "開始表單",
+    "payload": {
+     "x": 0,
+     "y": 0
+    },
+    "next": 1
+   },
+   {
+    "type": "SECTION",
+    "label": "基本資料",
+    "payload": {
+     "x": 0,
+     "y": 150
+    },
+    "section": 0,
+    "next": 2
+   },
+   {
+    "type": "SECTION",
+    "label": "Program Overview & 招募時程",
+    "payload": {
+     "x": -80.05401234567901,
+     "y": 298.070987654321
+    },
+    "section": 1,
+    "next": 3
+   },
+   {
+    "type": "SECTION",
+    "label": "學籍資料",
+    "payload": {
+     "x": 0,
+     "y": 450
+    },
+    "section": 2,
+    "next": 4
+   },
+   {
+    "type": "SECTION",
+    "label": "聯絡方式與帳號",
+    "payload": {
+     "x": -25.077160493827158,
+     "y": 599.0354938271605
+    },
+    "section": 3,
+    "next": 5
+   },
+   {
+    "type": "SECTION",
+    "label": "關於你",
+    "payload": {
+     "x": 5.787037037037038,
+     "y": 750
+    },
+    "section": 4,
+    "next": 6
+   },
+   {
+    "type": "SECTION",
+    "label": "SDC Summit 社員大會暨迎新茶會",
+    "payload": {
+     "x": -94.5216049382716,
+     "y": 900.9645061728395
+    },
+    "section": 5,
+    "next": 7
+   },
+   {
+    "type": "SECTION",
+    "label": "Full Stack Intro. Training Program",
+    "payload": {
+     "x": -95.48611111111111,
+     "y": 1048.070987654321
+    },
+    "section": 6,
+    "next": 8
+   },
+   {
+    "type": "CONDITION",
+    "payload": {
+     "x": -272.95524691358025,
+     "y": 1203.858024691358
+    },
+    "condition": {
+     "source": "CHOICE",
+     "question": {
+      "section": 6,
+      "question": 0
+     },
+     "choice": {
+      "section": 6,
+      "question": 0,
+      "choice": 0
+     }
+    },
+    "nextTrue": 9,
+    "nextFalse": 10
+   },
+   {
+    "type": "SECTION",
+    "label": "Full Stack Intro. 甄選題目",
+    "payload": {
+     "x": 182.73148148148147,
+     "y": 1368.557098765432
+    },
+    "section": 7,
+    "next": 10
+   },
+   {
+    "type": "SECTION",
+    "label": "Full Stack Advanced Training Program",
+    "payload": {
+     "x": -239.19753086419755,
+     "y": 1370.2546296296296
+    },
+    "section": 8,
+    "next": 11
+   },
+   {
+    "type": "CONDITION",
+    "payload": {
+     "x": -275.8487654320988,
+     "y": 1500
+    },
+    "condition": {
+     "source": "CHOICE",
+     "question": {
+      "section": 8,
+      "question": 0
+     },
+     "choice": {
+      "section": 8,
+      "question": 0,
+      "choice": 0
+     }
+    },
+    "nextTrue": 12,
+    "nextFalse": 13
+   },
+   {
+    "type": "SECTION",
+    "label": "Full Stack Advanced 甄選題目",
+    "payload": {
+     "x": 256.033950617284,
+     "y": 1625.1543209876543
+    },
+    "section": 9,
+    "next": 13
+   },
+   {
+    "type": "SECTION",
+    "label": "High Performance Computing Team",
+    "payload": {
+     "x": -146.60493827160494,
+     "y": 1631.6743827160494
+    },
+    "section": 10,
+    "next": 14
+   },
+   {
+    "type": "CONDITION",
+    "payload": {
+     "x": -273.91975308641975,
+     "y": 1804.8225308641977
+    },
+    "condition": {
+     "source": "CHOICE",
+     "question": {
+      "section": 10,
+      "question": 0
+     },
+     "choice": {
+      "section": 10,
+      "question": 0,
+      "choice": 0
+     }
+    },
+    "nextTrue": 15,
+    "nextFalse": 16
+   },
+   {
+    "type": "SECTION",
+    "label": "HPC Team 甄選題目",
+    "payload": {
+     "x": 319.6913580246913,
+     "y": 1956.983024691358
+    },
+    "section": 11,
+    "next": 16
+   },
+   {
+    "type": "SECTION",
+    "label": "Clustron & Core System Project Teams",
+    "payload": {
+     "x": -264.27469135802465,
+     "y": 1956.7515432098764
+    },
+    "section": 12,
+    "next": 17
+   },
+   {
+    "type": "CONDITION",
+    "payload": {
+     "x": -298,
+     "y": 2088
+    },
+    "condition": {
+     "source": "CHOICE",
+     "question": {
+      "section": 12,
+      "question": 0
+     },
+     "choice": {
+      "section": 12,
+      "question": 0,
+      "choice": 0
+     }
+    },
+    "nextTrue": 18,
+    "nextFalse": 19
+   },
+   {
+    "type": "SECTION",
+    "label": "Project Team 甄選題目",
+    "payload": {
+     "x": 320,
+     "y": 2227
+    },
+    "section": 13,
+    "next": 19
+   },
+   {
+    "type": "SECTION",
+    "label": "Program Match",
+    "payload": {
+     "x": -154,
+     "y": 2224
+    },
+    "section": 14,
+    "next": 20
+   },
+   {
+    "type": "END",
+    "label": "確認/送出",
+    "payload": {
+     "x": 100,
+     "y": 2382
+    }
+   }
+  ]
+ },
+ {
+  "title": "SDC 註冊表單 - 2026",
+  "previewMessage": "SDC 2026 招募註冊表單",
+  "description": {
+   "type": "doc",
+   "content": [
+    {
+     "type": "paragraph",
+     "content": [
+      {
+       "text": "🌟 Welcome to SDC, the Software Development Club! 🌟",
+       "type": "text"
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "content": [
+      {
+       "text": "我們是陽明交大軟體開發社（NYCU SDC），旨在聚集交清人才，加速推動兩校在資訊領域的發展，同時引領更多的新人（不限科系）成為人才，♾️ 循環。",
+       "type": "text"
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "content": [
+      {
+       "text": "更多資訊請關注 SDC Instagram @nycu_sdc",
+       "type": "text"
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "content": [
+      {
+       "text": "請使用您主要的 Google 帳號進行填寫，以便日後聯絡順利。",
+       "type": "text"
+      }
+     ]
+    },
+    {
+     "type": "paragraph",
+     "content": [
+      {
+       "text": "此表單內容提交後皆可修改，請安心填寫。",
+       "type": "text"
+      }
+     ]
+    }
+   ]
+  },
+  "messageAfterSubmission": "",
+  "visibility": "PUBLIC",
+  "sections": [
+   {
+    "title": "基本資料",
+    "description": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "paragraph"
+      }
+     ]
+    },
+    "questions": [
+     {
+      "title": "姓名",
+      "type": "SHORT_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      }
+     },
+     {
+      "title": "英文姓名",
+      "type": "SHORT_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "建議填寫用於正式身份文件之外文姓名或別名，參考格式：",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "bullet_list",
+         "content": [
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "XIAO-MING WANG",
+               "type": "text"
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "Wang, Xiao-Ming",
+               "type": "text"
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "Adam Wang",
+               "type": "text"
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "Adam Xiao-Ming Wang",
+               "type": "text"
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "title": "暱稱",
+      "type": "SHORT_TEXT",
+      "required": false,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "title": "學籍資料",
+    "description": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "paragraph"
+      }
+     ]
+    },
+    "questions": [
+     {
+      "title": "就讀/畢業學校",
+      "type": "SINGLE_CHOICE",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "bullet_list",
+         "content": [
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "若為學生，請填 ",
+               "type": "text"
+              },
+              {
+               "text": "目前就讀",
+               "type": "text",
+               "marks": [
+                {
+                 "type": "bold"
+                }
+               ]
+              },
+              {
+               "text": " 之學校全名",
+               "type": "text"
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "若非學生，請填 ",
+               "type": "text"
+              },
+              {
+               "text": "畢業",
+               "type": "text",
+               "marks": [
+                {
+                 "type": "bold"
+                }
+               ]
+              },
+              {
+               "text": " 之學校全名",
+               "type": "text"
+              }
+             ]
+            },
+            {
+             "type": "paragraph"
+            },
+            {
+             "type": "paragraph"
+            },
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "e.g., 國立臺灣大學",
+               "type": "text"
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      "choices": [
+       {
+        "name": "國立陽明交通大學"
+       },
+       {
+        "name": "國立清華大學"
+       },
+       {
+        "name": "",
+        "isOther": true
+       }
+      ]
+     },
+     {
+      "title": "就讀/畢業系所",
+      "type": "SHORT_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "bullet_list",
+         "content": [
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "若為學生請填 ",
+               "type": "text"
+              },
+              {
+               "text": "就讀系所全名",
+               "type": "text",
+               "marks": [
+                {
+                 "type": "bold"
+                }
+               ]
+              }
+             ]
+            },
+            {
+             "type": "bullet_list",
+             "content": [
+              {
+               "type": "list_item",
+               "content": [
+                {
+                 "type": "paragraph",
+                 "content": [
+                  {
+                   "text": "e.g., 資訊工程學系、百川學士學位學程、經營管理碩士在職專班",
+                   "type": "text"
+                  }
+                 ]
+                }
+               ]
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "若非學生請填 ",
+               "type": "text"
+              },
+              {
+               "text": "畢業系所全名",
+               "type": "text",
+               "marks": [
+                {
+                 "type": "bold"
+                }
+               ]
+              }
+             ]
+            },
+            {
+             "type": "bullet_list",
+             "content": [
+              {
+               "type": "list_item",
+               "content": [
+                {
+                 "type": "paragraph",
+                 "content": [
+                  {
+                   "text": "e.g., 數據科學與工程研究所、電控工程研究所",
+                   "type": "text"
+                  }
+                 ]
+                }
+               ]
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "title": "學號",
+      "type": "SHORT_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "若非學生請填無",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "title": "入學年份",
+      "type": "SHORT_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "請填入學年份（西元），若非學生請填無",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "e.g., 2023",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "title": "畢業年份",
+      "type": "SHORT_TEXT",
+      "required": false,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "bullet_list",
+         "content": [
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "若為學生請填預計畢業年份（西元）",
+               "type": "text"
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "若非學生請填畢業年份（西元）",
+               "type": "text"
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "e.g., 2026",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "title": "聯絡方式與帳號",
+    "description": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "paragraph"
+      }
+     ]
+    },
+    "questions": [
+     {
+      "title": "GitHub",
+      "type": "HYPERLINK",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "bullet_list",
+         "content": [
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "請提供連結",
+               "type": "text"
+              }
+             ]
+            },
+            {
+             "type": "bullet_list",
+             "content": [
+              {
+               "type": "list_item",
+               "content": [
+                {
+                 "type": "paragraph",
+                 "content": [
+                  {
+                   "text": "e.g., https://github.com/NYCU-SDC/",
+                   "type": "text"
+                  }
+                 ]
+                }
+               ]
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "社團各式專案與訓練皆會使用到 GitHub，同時也會將 GitHub 提供給 Program Hosts。若無可先填「https://github.com/無」，此表單可編輯。",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "title": "Discord username",
+      "type": "SHORT_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "bullet_list",
+         "content": [
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "請提供使用者名稱（username），非顯示名稱（display name）或 ID",
+               "type": "text"
+              }
+             ]
+            },
+            {
+             "type": "bullet_list",
+             "content": [
+              {
+               "type": "list_item",
+               "content": [
+                {
+                 "type": "paragraph",
+                 "content": [
+                  {
+                   "text": "e.g., nycu_sdc",
+                   "type": "text"
+                  }
+                 ]
+                }
+               ]
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "社團主要聯絡方式皆會以 Discord + Mail 為主。若無可先填無，此表單可編輯。",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "title": "Notion 帳號",
+      "type": "SHORT_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "bullet_list",
+         "content": [
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "請提供註冊的 Email 帳號",
+               "type": "text"
+              }
+             ]
+            },
+            {
+             "type": "bullet_list",
+             "content": [
+              {
+               "type": "list_item",
+               "content": [
+                {
+                 "type": "paragraph",
+                 "content": [
+                  {
+                   "text": "e.g., contact@sdc.nycu.club",
+                   "type": "text"
+                  }
+                 ]
+                }
+               ]
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "若尚無，請先至 Notion 網站註冊。社團各教材、文件皆會存放於 Notion Workspace 中。",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "title": "Telegram username",
+      "type": "SHORT_TEXT",
+      "required": false,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "bullet_list",
+         "content": [
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "請提供使用者名稱（username），非顯示名稱（name）",
+               "type": "text"
+              }
+             ]
+            },
+            {
+             "type": "bullet_list",
+             "content": [
+              {
+               "type": "list_item",
+               "content": [
+                {
+                 "type": "paragraph",
+                 "content": [
+                  {
+                   "text": "e.g., @nycu_sdc",
+                   "type": "text"
+                  }
+                 ]
+                }
+               ]
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "特定 Team 可能會使用 Telegram 進行聯絡。若無可先填無，此表單可編輯。",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "title": "Google",
+      "type": "OAUTH_CONNECT",
+      "required": false,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      },
+      "oauthConnect": "GOOGLE"
+     }
+    ]
+   },
+   {
+    "title": "關於你",
+    "description": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "paragraph"
+      }
+     ]
+    },
+    "questions": [
+     {
+      "title": "是否已看過 SDC Intro. Day 影片？",
+      "type": "SINGLE_CHOICE",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "bullet_list",
+         "content": [
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "如果還沒看過，歡迎至 YouTube 進行觀看：",
+               "type": "text"
+              },
+              {
+               "text": "https://url.sdc.nycu.club/intro-day-2026",
+               "type": "text",
+               "marks": [
+                {
+                 "type": "link",
+                 "attrs": {
+                  "rel": "noopener noreferrer",
+                  "href": "https://url.sdc.nycu.club/intro-day-2026",
+                  "class": null,
+                  "target": "_blank"
+                 }
+                }
+               ]
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      "choices": [
+       {
+        "name": "是"
+       },
+       {
+        "name": "否"
+       }
+      ]
+     },
+     {
+      "title": "個人簡述",
+      "type": "LONG_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "可以簡單說一下怎麼知道 SDC、聽到怎麼樣計畫感興趣、對 SDC 有什麼期待，或是其他你想說的話或自我介紹！",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "title": "Full Stack Intro. Training Program",
+    "description": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "Full Stack Intro. 將帶大家從零開始認識前後端開發，非常歡迎對於前後端零基礎的學員加入！",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "在本學期的課程中，我們將從 HTTP 與 RESTful 概念出發，帶領大家建立全端開發的思維。課程內容包含 Docker 環境、資料庫建置、CRUD 實作與單元測試，並整合 CORS 與 OAuth 驗證。教學過程將手把手帶領大家實作專案串接前端，完整理解系統資料流與全端開發架構。",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "期待和大家一同踏上這趟從零開始的學習旅程，親手打造出屬於自己的完整網站！",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "bullet_list",
+       "content": [
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "時間：每週三 18:30 ~ 21:30",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    "questions": [
+     {
+      "title": "[I] 是否報名 Full Stack Intro. Training Program？",
+      "type": "SINGLE_CHOICE",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      },
+      "choices": [
+       {
+        "name": "是"
+       },
+       {
+        "name": "否"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "title": "Full Stack Intro. 甄選題目",
+    "description": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "paragraph"
+      }
+     ]
+    },
+    "questions": [
+     {
+      "title": "[I] 1. 請列出你接觸過的程式語言",
+      "type": "SHORT_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "如：C、C++、Python…",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "title": "[I] 2. 在現代網頁開發中，HTML、CSS 與 JavaScript 是構成前端的三大支柱。請簡述這三者是如何分工並互相配合，最終在瀏覽器上呈現出一個完整的互動式頁面？",
+      "type": "LONG_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      }
+     },
+     {
+      "title": "[I] 3-1. 使用者介面與互動展示",
+      "type": "SINGLE_CHOICE",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "[I] 3. 請配對在現代網頁系統中，前端與後端各自負責的角色",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      "choices": [
+       {
+        "name": "前端"
+       },
+       {
+        "name": "後端"
+       }
+      ]
+     },
+     {
+      "title": "[I] 3-2. 邏輯處理與資料運算",
+      "type": "SINGLE_CHOICE",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      },
+      "choices": [
+       {
+        "name": "前端"
+       },
+       {
+        "name": "後端"
+       }
+      ]
+     },
+     {
+      "title": "[I] 3-3. 資料庫管理與持久化儲存",
+      "type": "SINGLE_CHOICE",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      },
+      "choices": [
+       {
+        "name": "前端"
+       },
+       {
+        "name": "後端"
+       }
+      ]
+     },
+     {
+      "title": "[I] 3-4. 發送 API 請求與資料呈現",
+      "type": "SINGLE_CHOICE",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      },
+      "choices": [
+       {
+        "name": "前端"
+       },
+       {
+        "name": "後端"
+       }
+      ]
+     },
+     {
+      "title": "[I] 3-5. 身分驗證與權限控管",
+      "type": "SINGLE_CHOICE",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      },
+      "choices": [
+       {
+        "name": "前端"
+       },
+       {
+        "name": "後端"
+       }
+      ]
+     },
+     {
+      "title": "[I] 4. 當網頁向伺服器索取資料時，通常需要花一點時間等待。為了避免在這段等待期間「網頁畫面卡住不動」，程式會將這個任務放到背景執行，讓使用者仍然可以繼續正常點擊或滑動網頁。請問這種「不卡死畫面、在背景等待資料」的執行方式稱為什麼？",
+      "type": "SINGLE_CHOICE",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      },
+      "choices": [
+       {
+        "name": "同步 (Synchronous）"
+       },
+       {
+        "name": "非同步 (Asynchronous)"
+       }
+      ]
+     },
+     {
+      "title": "[I] 5. 在寫 JavaScript 程式去跟伺服器要資料時，因為網路傳輸需要時間，我們會用到兩個關鍵字。一個是 async（宣告這是不會卡住畫面的任務），另一個是用來告訴程式「請在這裡暫停等一下，等資料抓回來再繼續往下走」。請問這個表示「等待」的英文單字是什麼？",
+      "type": "SINGLE_CHOICE",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      },
+      "choices": [
+       {
+        "name": "stop"
+       },
+       {
+        "name": "await"
+       },
+       {
+        "name": "delay"
+       }
+      ]
+     },
+     {
+      "title": "[I] 6-1. 打開我的最愛分頁，查看所有收藏的曲目清單",
+      "type": "SINGLE_CHOICE",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "[I] 6. 在後端系統的邏輯中，絕大部分的資料操作都是圍繞著 CRUD（增刪查改）這四個核心行為展開的。請嘗試將下列「歌單功能」與其對應的動作進行配對：",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      "choices": [
+       {
+        "name": "Create（新增）"
+       },
+       {
+        "name": "Read（讀取）"
+       },
+       {
+        "name": "Update（更新）"
+       },
+       {
+        "name": "Delete（刪除）"
+       }
+      ]
+     },
+     {
+      "title": "[I] 6-2. 按下「＋」號，將新發現的歌曲加入我的最愛中",
+      "type": "SINGLE_CHOICE",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      },
+      "choices": [
+       {
+        "name": "Create（新增）"
+       },
+       {
+        "name": "Read（讀取）"
+       },
+       {
+        "name": "Update（更新）"
+       },
+       {
+        "name": "Delete（刪除）"
+       }
+      ]
+     },
+     {
+      "title": "[I] 6-3. 將原本名為「運動用」的歌單改名為「慢跑專用」",
+      "type": "SINGLE_CHOICE",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      },
+      "choices": [
+       {
+        "name": "Create（新增）"
+       },
+       {
+        "name": "Read（讀取）"
+       },
+       {
+        "name": "Update（更新）"
+       },
+       {
+        "name": "Delete（刪除）"
+       }
+      ]
+     },
+     {
+      "title": "[I] 6-4. 點選圖示，將不喜歡的歌曲從我的最愛中移除",
+      "type": "SINGLE_CHOICE",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      },
+      "choices": [
+       {
+        "name": "Create（新增）"
+       },
+       {
+        "name": "Read（讀取）"
+       },
+       {
+        "name": "Update（更新）"
+       },
+       {
+        "name": "Delete（刪除）"
+       }
+      ]
+     },
+     {
+      "title": "[I] 7. 你希望能在這門 Program 學到什麼？",
+      "type": "LONG_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      }
+     },
+     {
+      "title": "[I] 8. 想跟我們說的話！",
+      "type": "LONG_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "title": "Full Stack Advanced Training Program",
+    "description": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "Full Stack Advanced 會學習實務開發中，更常被使用的技術線。",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "在本學期的課程中，我們將帶大家學習 Go 開發後端，透過 Go 能更加瞭解後端的背後實作，簡單從 Database，深到 Middleware、OAuth 的原理。和上學期一樣會在課程進行的同時，手把手帶著大家實作專案，專案內容接續上學期的「任務管理工具」將完成後端的部分，搭配前端可以組合為一個完整的網頁系統。",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "bullet_list",
+       "content": [
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "時間：每週三 18:30 ~ 21:30",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    "questions": [
+     {
+      "title": "[A] 是否報名 Full Stack Advanced Training Program ？",
+      "type": "SINGLE_CHOICE",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      },
+      "choices": [
+       {
+        "name": "是"
+       },
+       {
+        "name": "否"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "title": "Full Stack Advanced 甄選題目",
+    "description": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "paragraph"
+      }
+     ]
+    },
+    "questions": [
+     {
+      "title": "[A] 1. 是否有寫過以下的程式語言",
+      "type": "MULTIPLE_CHOICE",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      },
+      "choices": [
+       {
+        "name": "C"
+       },
+       {
+        "name": "C++"
+       },
+       {
+        "name": "C#"
+       },
+       {
+        "name": "Java"
+       },
+       {
+        "name": "",
+        "isOther": true
+       }
+      ]
+     },
+     {
+      "title": "[A] 2. 請簡述 API (Application Programming Interface) 在軟體系統中的角色或作用？為何不直接對資料庫進行存取？",
+      "type": "LONG_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      }
+     },
+     {
+      "title": "[A] 3. 請解釋 RESTful API 的原則？",
+      "type": "LONG_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "意即，一個 API 需要符合哪些特性才能被稱為 RESTful API",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "title": "[A] 4. 請說明以下 SQL 查詢的結果",
+      "type": "LONG_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      }
+     },
+     {
+      "title": "[A] 5. 關於用戶身分驗證，為什麼在資料庫中存儲密碼時，不應該使用「明文」存儲？",
+      "type": "LONG_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      }
+     },
+     {
+      "title": "[A] 6. 是否有使用過 Terminal / Command Prompt 的經驗？",
+      "type": "LONG_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      }
+     },
+     {
+      "title": "[A] 7. 在 Terminal 中，如果你想進入一個資料夾並查看裡面的所有檔案（包含隱藏檔），你會依序輸入哪兩個指令？",
+      "type": "LONG_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "title": "GPU Programming Training Program",
+    "description": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "隨著 AI 的興起，GPU 在 AI 的貢獻也越來越重要，鑑於 GPU 平行化的特性，大大的加速了 AI 的發展，這對於學習 GPU Programming 來了解 GPU 是如何改變這個世界這個問題，至關重要。",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "GPU 必須依賴於 CPU，且 GPU Programming 有別於 CPU Programming 的方式，這堂課會介紹該如何讓 CPU 與 GPU 之間共同合作呢？",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "bullet_list",
+       "content": [
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "時間：每週四 18:30 ~ 21:30",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    "questions": [
+     {
+      "title": "[G] 是否報名 GPU Programming Training Program？",
+      "type": "SINGLE_CHOICE",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      },
+      "choices": [
+       {
+        "name": "是"
+       },
+       {
+        "name": "否"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "title": "GPU Programming 甄選題目",
+    "description": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "paragraph"
+      }
+     ]
+    },
+    "questions": [
+     {
+      "title": "[G] 1. Heterogeneous computing 是什麼，為什麼會需要這種技術呢？",
+      "type": "LONG_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      }
+     },
+     {
+      "title": "[G] 2. 你覺得 CPU 跟 GPU 最大的差別是什麼？",
+      "type": "LONG_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "title": "High Performance Computing Team",
+    "description": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "heading",
+       "attrs": {
+        "level": 3
+       },
+       "content": [
+        {
+         "text": "Team Intro.",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "HPC Team 專注在叢集建立與維運、系統與函式庫調校、平行與 GPU 程式設計，以及 CPU/GPU/AI 加速與架構。除了以參加超算競賽為目標（HiPAC、ISC、ASC、SC），團隊亦在程式效能最佳化方面持續投入研究。",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "heading",
+       "attrs": {
+        "level": 3
+       },
+       "content": [
+        {
+         "text": "Technical Stack",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "Parallel Programming",
+         "type": "text",
+         "marks": [
+          {
+           "type": "bold"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "bullet_list",
+       "content": [
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "Multi-threading: pthread, OpenMP",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "Multi-process: OpenMPI, MPICH",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "GPU: OpenACC, CUDA, ROCm",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "System",
+         "type": "text",
+         "marks": [
+          {
+           "type": "bold"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "bullet_list",
+       "content": [
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "Benchmarking: Netlib HPL, NVIDIA HPC Benchmark",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "Network: InfiniBand, Soft-RoCE, NFSoRDMA",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "Automatically: Ansible",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "Observability: Grafana, NetHogs, Monitorix, Arpwatch",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    "questions": [
+     {
+      "title": "[H] 是否報名 High Performance Computing Team？",
+      "type": "SINGLE_CHOICE",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      },
+      "choices": [
+       {
+        "name": "是"
+       },
+       {
+        "name": "否"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "title": "HPC Team 甄選題目",
+    "description": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "bullet_list",
+       "content": [
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "以下問題皆為開放式問題，無絕對答案，請不用拘泥於正確答案。",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "歡迎使用 GenAI、Search Engine 等工具協助你回答，但請不要直接複製貼上，我們看得出來。",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    "questions": [
+     {
+      "title": "[H] 1. 你認為 HPC 這個領域在做什麼？可以就你對 HPC 領域的想像進行描述。",
+      "type": "LONG_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      }
+     },
+     {
+      "title": "[H] 2. 承上題，以你對 HPC 領域的想像，以及對「競賽程式」的認識，說明兩領域的差別、關係或相似之處。",
+      "type": "LONG_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      }
+     },
+     {
+      "title": "[H] 3. 你認為那些領域會需要 HPC，或對 HPC 領域有高度需求？",
+      "type": "LONG_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      }
+     },
+     {
+      "title": "[H] 4. 你認為 HPC 的 domain knowledge 有哪些？",
+      "type": "LONG_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "title": "Site Reliability Engineering Team",
+    "description": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "在 SRE Team，我們不只寫 Code，我們是用軟體工程來守護系統的最強後盾！",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "不同於一般的開發，在 SRE Team 你將維運 SDC 旗下 4 個產品團隊，體驗真實基礎設施的維運與自動化！",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "heading",
+       "attrs": {
+        "level": 3
+       },
+       "content": [
+        {
+         "text": "加入 SRE Team，你將解鎖：",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "ordered_list",
+       "attrs": {
+        "type": null,
+        "start": 1
+       },
+       "content": [
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "業界主流工具：親手把玩 Prometheus、Grafana，打造超潮的數據儀表板與 Discord 智慧警報機器人",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "極致的自動化：體驗 GitOps 與 CI/CD 流程，告別手動設定，寫完 Code 按下一鍵直接部署！",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "真實面對流量：負責真實運作中的產品底層架構，獲得 Side Project 絕對學不到的實戰經驗",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "0 基礎也 OK！我們提供完整培訓：從零帶你認識 DevOps 文化、系統架構與監控警報機制",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "heading",
+       "attrs": {
+        "level": 3
+       },
+       "content": [
+        {
+         "text": "我們在找這樣的你：",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "不要求伺服器或程式經驗，只要你：",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "對網站背後怎麼運作充滿好奇",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "極度討厭重複的手工活，覺得交給程式自動化比較爽",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "想親手打造不會當機的魔法嗎？現在就加入 SDC SRE Team！",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    },
+    "questions": [
+     {
+      "title": "[S] 是否報名 Site Reliability Engineering Team？",
+      "type": "SINGLE_CHOICE",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      },
+      "choices": [
+       {
+        "name": "是"
+       },
+       {
+        "name": "否"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "title": "SRE Team 甄選題目",
+    "description": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "paragraph"
+      }
+     ]
+    },
+    "questions": [
+     {
+      "title": "[S] 1. 你為什麼想加入 SRE Team？",
+      "type": "LONG_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      }
+     },
+     {
+      "title": "[S] 2. 有參與過專案開發嗎？是個人的還是團隊合作的？",
+      "type": "SHORT_TEXT",
+      "required": false,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "請放上作品連結，放上其中之一即可：",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "bullet_list",
+         "content": [
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "GitHub",
+               "type": "text"
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "簡短截圖",
+               "type": "text"
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "筆記連結",
+               "type": "text"
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "心得文",
+               "type": "text"
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "任何領域都可以，不限資訊領域，若無可跳過。",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "title": "[S] 3. 請寫出你接觸過的程式語言，你把它用在什麼地方",
+      "type": "LONG_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      }
+     },
+     {
+      "title": "[S] 4. 有操作過純 CLI 或是 Unix/Linux 作業系統嗎，是什麼情境接觸到的？或是有部屬過軟體服務嗎？",
+      "type": "LONG_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "bullet_list",
+         "content": [
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "簡單描述即可",
+               "type": "text"
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "用 LLM（Claude Code、Codex CLI 等）也可以",
+               "type": "text"
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "title": "[S] 5. SRE 通常需要看英文官方文件。遇到全英文的文件時，你的消化方式是什麼？",
+      "type": "LONG_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      }
+     },
+     {
+      "title": "[S] 6. 預計每週投入多少時間或是目前的時間規劃？",
+      "type": "SHORT_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph"
+        }
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "title": "Project Teams",
+    "description": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "開發部（Engineering Department）致力於提供 Project Team 在產品開發中的各項支持，包括但不限於整合計算資源、統一佈署流程（CI/CD）和配套的訓練計畫。",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "除此之外，我們也協助 Project Team 導入現代化的工程方法，透過敏捷流程、程式碼審查以及以 Cloud Native 為核心的系統設計理念 ，來確保產品的可靠與可持續。",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "我們強調從一開始就以真實世界的標準打造產品，讓團隊不僅能快速迭代，更能在面對規模成長與需求變化時保持穩定與彈性。",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "最後，我們也相信「邊做邊學」是最快的成長方式，開發部的訓練計畫會與實際的開發需求緊密結合，並且針對 0 基礎而設計。不用擔心缺乏經驗，只要願意投入時間，我們會幫助你從最基本的觀念開始累積，直到能夠獨立解決問題，並在真實專案中發揮關鍵影響力！",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "heading",
+       "attrs": {
+        "level": 3
+       },
+       "content": [
+        {
+         "text": "Technical Stack",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "bullet_list",
+       "content": [
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "Frontend: React",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "Backend: Golang, PostgreSQL",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "Monitoring: Grafana, OpenTelemetry",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "Platform / Tools: Proxmox VE, Docker, Kubernetes",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "Project Management: Jira, Confluence",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "如果沒有程式基礎可以參與嗎？",
+         "type": "text",
+         "marks": [
+          {
+           "type": "bold"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "bullet_list",
+       "content": [
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "我們提供了 6 + 3 週的完整訓練計畫",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "type": "bullet_list",
+           "content": [
+            {
+             "type": "list_item",
+             "content": [
+              {
+               "type": "paragraph",
+               "content": [
+                {
+                 "text": "前 6 周：從 0 帶你以開發產品的角度學習前端或後端",
+                 "type": "text"
+                }
+               ]
+              }
+             ]
+            },
+            {
+             "type": "list_item",
+             "content": [
+              {
+               "type": "paragraph",
+               "content": [
+                {
+                 "text": "後 3 周：Team Match 結束後，繼續手把手帶你銜接實際的團隊開發流程",
+                 "type": "text"
+                }
+               ]
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "除此之外，每週都可以約 Office Hours 盡情問問題",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "適合誰？",
+         "type": "text",
+         "marks": [
+          {
+           "type": "bold"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "bullet_list",
+       "content": [
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "對產品開發充滿熱情創意",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "有好奇心、勇於主動提問",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "list_item",
+         "content": [
+          {
+           "type": "paragraph",
+           "content": [
+            {
+             "text": "能夠妥善規劃自己的時間",
+             "type": "text"
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "heading",
+       "attrs": {
+        "level": 2
+       },
+       "content": [
+        {
+         "text": "Clustron Project Team",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "heading",
+       "attrs": {
+        "level": 3
+       },
+       "content": [
+        {
+         "text": "Team Intro.",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "將一台配備 4 張資料中心級 GPU 的伺服器從鐵磚塊，轉變成能被團隊使用的生產力工具，對研究單位來說已是不小的維運成本。那假如是多台伺服器組成的 GPU / FPGA 叢集呢？如果還需要額外維護 Slurm 這類排程系統，再加上虛擬機環境與 LDAP 等使用者管理機制，問題就不再只是單純的能不能用，而是整個團隊是否負擔得起管理的代價。",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "這類矛盾其實無處不在，實驗室有機器，團隊有需求，但缺乏一個有效連結兩端的橋樑。Clustron 要打造的就是這座橋樑，透過集中託管與可視化介面，平台能將複雜的資源管理轉化為直觀的操作，讓任何人都能輕鬆提交工作、監控進度，甚至跨組織共享資源。",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "而且借助 HPC Team 的專業知識和實務經驗，我們也得以跨越平常開發者難以同時掌握的技術門檻，去解決橫跨硬體、系統與應用的斷層，讓高效能運算真正落地。",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "heading",
+       "attrs": {
+        "level": 2
+       },
+       "content": [
+        {
+         "text": "Core System Project Team",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "heading",
+       "attrs": {
+        "level": 3
+       },
+       "content": [
+        {
+         "text": "Team Intro.",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "企業行政系統（ERP）的出現改變了許多公司的管理方式，讓企業能在同一套系統裡處理財務、人事與各種流程，是邁向規模化的關鍵基礎。但對擁有類似需求的社團、研討會和志工團體來說，它卻顯得昂貴、複雜又不合時宜。",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "Core System 立志填補這塊真空。我們要打造的不僅是另一套 ERP，而是 ERP 本質上無法辦到的事情：以人為主體、組織之間互通有無的平台。不再是把人當成「角色」或「資源」，而是作為參與者去探索各式各樣的組織與活動。",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "我們將從 SDC（社員 140+）的行政需求開始著手，接著逐漸擴張到更多社群、研討會與志工團體。先解決包含但不限於管理各平台權限、發布公告 / 行事曆、財務報帳、招募 / Team Match 和社課簽到等等瑣碎的作業。讓社員也能夠一站式完成大部分行政操作，不必再在表單、試算表和群組訊息間來回切換，把時間專注在真正有價值的活動與交流上。",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "heading",
+       "attrs": {
+        "level": 2
+       },
+       "content": [
+        {
+         "text": "ITSC-HR Project Team",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "heading",
+       "attrs": {
+        "level": 3
+       },
+       "content": [
+        {
+         "text": "Team Intro.",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "學校的人事系統是一的很大的資料庫，裡面有各個教職員生的資料。有鑑於網路的標準不斷地在演進，任何當代最前端的系統，假以時日都會落後於時代。人事系統就是一個例子。",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "現有的人事資料服務系統建立於早期 Web 開發技術的認知之下，這導致了許多在現代開發觀點下有不方便、不合適的做法。例如：在當年的時空環境中，以功能為中心，而非現在流行的以資源為中心。",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "我們希望透過業界成熟的技術實踐，來降低外部系統前來介接時所需的學習門檻。",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "提供現代化且標準的 API 服務，讓開發者能憑藉直覺與通用工具快速完成系統串接，無需花費過多時間學習非標準規則",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "實現透明的權限管理機制，讓管理人員透過視覺化介面，即時掌握誰能夠存取哪些資料",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "優化大量資料（ 10 萬+）的讀取效能，確保外部系統在抓取人事資料時，系統保持順暢穩定",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "提供官方維護的開發工具包（SDK），讓合作廠商無需從頭撰寫底層程式碼，即可隨插即用，提升開發效率與品質",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "heading",
+       "attrs": {
+        "level": 2
+       },
+       "content": [
+        {
+         "text": "SciEdu Project Team",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "heading",
+       "attrs": {
+        "level": 3
+       },
+       "content": [
+        {
+         "text": "Team Intro.",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "我們結合領域專家，打造專為中學科學設計的學習引擎",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "現有的 LLM（如 ChatGPT）並未針對中學課綱設計，缺乏課文脈絡的整合，也難以有系統地引導概念修正。更關鍵的是，這些工具背後沒有教育理論模型的支撐，不理解學生怎麼學期的情況下，自然也難逐步引導學生破除迷思。我們期待透過鑲入教育學的領域專業，讓 AI 不只是回答問題，而是能更有效地促進學生理解。",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "為此，SDC 與教育所佘曉清教授合作，打造一套結合課文資料、專為中學生設計的 AI 輔助學習系統，並探討如何運用數位教材促進中學生在科學學習上改正錯誤的先備概念。",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "目前有兩條開發線在同步推進。一條是互動式數位教材，將教授既有的教學內容數位化並整合 LLM。這裡有趣的挑戰在於，LLM 必須依循既定的教育引導模型與學生互動，同時又需要跨頁面追蹤學生的操作軌跡與內容脈絡，才能在對的時機做出對的引導。另一條是權限管理更加完善的 LLM 系統，處理的是部署、整合與多角色存取的問題。兩條線都會深入接觸 LLM 相關技術（如 SSE streaming），也都有各自不同層次的工程挑戰。",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "我們的角色不只是寫程式。教材設計與教育理論由教授團隊負責，我們要做的是在溝通過程中釐清真正的需求，再找出有價值且可行的技術方案來解決問題。比起一般的 side project，這更貼近真實世界中「為非技術領域的人開發軟體」的情境，先學會聽懂對方的語言、把模糊的需求翻譯成具體的技術規格，然後把東西做出來。歡迎想體驗跨領域協作的同學一同參與。",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    },
+    "questions": [
+     {
+      "title": "[P] 是否報名 Project Teams ？",
+      "type": "SINGLE_CHOICE",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "包括以下 Project Teams：",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "bullet_list",
+         "content": [
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "Clustron Project Team",
+               "type": "text"
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "Core System Project Team",
+               "type": "text"
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "ITSC-HR Project Team",
+               "type": "text"
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "SciEdu Project Team",
+               "type": "text"
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "若有意願報名任一 Project Team 請選「是」，若皆無意願請選「否」。",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      "choices": [
+       {
+        "name": "是"
+       },
+       {
+        "name": "否"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "title": "Project Team 甄選題目",
+    "description": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "paragraph"
+      }
+     ]
+    },
+    "questions": [
+     {
+      "title": "[P] 1. 您感興趣的 Project Team（請排志願序）",
+      "type": "RANKING",
+      "required": false,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "bullet_list",
+         "content": [
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "請填寫您的志願序",
+               "type": "text"
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "若只對部分 Project 感興趣，其餘留空即可",
+               "type": "text"
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      "choices": [
+       {
+        "name": "Clustron Project Team"
+       },
+       {
+        "name": "Core System Project Team"
+       },
+       {
+        "name": "ITSC-HR Project Team"
+       },
+       {
+        "name": "SciEdu Project Team"
+       }
+      ]
+     },
+     {
+      "title": "[P] 2. 您對什麼類型的任務內容感興趣？",
+      "type": "MULTIPLE_CHOICE",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "若報名 Project Team，以下回答請至少擇一",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      "choices": [
+       {
+        "name": "前端"
+       },
+       {
+        "name": "後端"
+       },
+       {
+        "name": "DevOps"
+       },
+       {
+        "name": "UI/UX 設計（Figma 等）"
+       }
+      ]
+     },
+     {
+      "title": "[P] 3. 你為什麼想加入 Project Team？",
+      "type": "LONG_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "本題及以下問題請盡可能詳細敘述，讓我們能夠更瞭解您，謝謝！",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "title": "[P] 4. 請分享一段你自學一項技能或解決問題的經驗",
+      "type": "LONG_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "有任何你印象深刻的環節、或是這之中你認為必不可少的要素嗎？不一定要與程式設計相關，任何領域都可以。",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "title": "[P] 5. 請分享一段你過去團隊合作上的經驗",
+      "type": "LONG_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "若沒有類似經驗，也可以談談你認為團隊合作中什麼最重要。",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "title": "[P] 6. 您預計每週投入多少時間或是目前的時間規劃 ",
+      "type": "LONG_TEXT",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "Project Team 目前的工作模式為每週投入至少 4-6 hr ，每週一次進度 Demo",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "title": "[P] 7. 作品或足跡",
+      "type": "LONG_TEXT",
+      "required": false,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "放上其中之一即可：",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "bullet_list",
+         "content": [
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "GitHub",
+               "type": "text"
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "簡短截圖",
+               "type": "text"
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "筆記連結",
+               "type": "text"
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "心得文",
+               "type": "text"
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "任何領域都可以，不限資訊領域，若無可跳過。",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "title": "[P] 8. 請閱讀以下說明",
+      "type": "SINGLE_CHOICE",
+      "required": true,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "我們會視表單內容寄信與您安排面談。面談通過後，將有為期 6+3 週的訓練計畫：",
+           "type": "text"
+          }
+         ]
+        },
+        {
+         "type": "bullet_list",
+         "content": [
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "前 6 週：從 0 帶你以開發產品的角度學習前端或後端",
+               "type": "text"
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "type": "list_item",
+           "content": [
+            {
+             "type": "paragraph",
+             "content": [
+              {
+               "text": "後 3 週：Team Match 結束後，繼續手把手帶你銜接實際的團隊開發流程",
+               "type": "text"
+              }
+             ]
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "除此之外，每週都可以約 Office Hours 盡情問問題。",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      "choices": [
+       {
+        "name": "我已了解面談與訓練計畫內容"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "title": "Program Match",
+    "description": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "若無參加該 Program 之意願，請將該列留空",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "Note: Teams 將另外招生，不會參與 Program Match，報名 Teams 的成員我們將另外進行聯絡",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "下圖表示將 Full Stack Intro. 排在第一志願，並且無參加 Full Stack Advanced 之意願（原表單此處附有範例圖，core system 目前無法內嵌圖片）",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    },
+    "questions": [
+     {
+      "title": "Program 志願序",
+      "type": "RANKING",
+      "required": false,
+      "description": {
+       "type": "doc",
+       "content": [
+        {
+         "type": "paragraph",
+         "content": [
+          {
+           "text": "若無參加意願，請將該列留空",
+           "type": "text"
+          }
+         ]
+        }
+       ]
+      },
+      "choices": [
+       {
+        "name": "Full Stack Intro."
+       },
+       {
+        "name": "Full Stack Advanced"
+       },
+       {
+        "name": "GPU Programming"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "title": "SDC Summit 社員大會暨迎新茶會",
+    "description": {
+     "type": "doc",
+     "content": [
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "<SDC Summit>",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "SDC Summit 將介紹 Programs & Teams 的內容與運作方式。想認識各個厲害的 Hosts，或好奇 SDC 所有 Technical Stack 的同學，歡迎在 SDC Summit 找我們聊天唷！",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph"
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "🔺時間：9/3 (Wed.) 18:00 ~ 21:00",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "🔺地點：國立陽明交通大學工程三館 EC122",
+         "type": "text"
+        }
+       ]
+      },
+      {
+       "type": "paragraph",
+       "content": [
+        {
+         "text": "🔺錄影連結：https://url.sdc.nycu.club/sdc-summit-2025-video",
+         "type": "text"
+        }
+       ]
+      }
+     ]
+    },
+    "questions": []
+   }
+  ],
+  "workflow": [
+   {
+    "type": "START",
+    "label": "開始表單",
+    "payload": {
+     "x": 0,
+     "y": 0
+    },
+    "next": 1
+   },
+   {
+    "type": "SECTION",
+    "label": "基本資料",
+    "payload": {
+     "x": 0,
+     "y": 150
+    },
+    "section": 0,
+    "next": 2
+   },
+   {
+    "type": "SECTION",
+    "label": "學籍資料",
+    "payload": {
+     "x": 0,
+     "y": 300
+    },
+    "section": 1,
+    "next": 3
+   },
+   {
+    "type": "SECTION",
+    "label": "聯絡方式與帳號",
+    "payload": {
+     "x": 0,
+     "y": 450
+    },
+    "section": 2,
+    "next": 4
+   },
+   {
+    "type": "SECTION",
+    "label": "關於你",
+    "payload": {
+     "x": 0,
+     "y": 600
+    },
+    "section": 3,
+    "next": 5
+   },
+   {
+    "type": "SECTION",
+    "label": "Full Stack Intro. Training Program",
+    "payload": {
+     "x": 0,
+     "y": 750
+    },
+    "section": 4,
+    "next": 6
+   },
+   {
+    "type": "CONDITION",
+    "payload": {
+     "x": 0,
+     "y": 900
+    },
+    "condition": {
+     "source": "CHOICE",
+     "question": {
+      "section": 4,
+      "question": 0
+     },
+     "choice": {
+      "section": 4,
+      "question": 0,
+      "choice": 0
+     }
+    },
+    "nextTrue": 7,
+    "nextFalse": 8
+   },
+   {
+    "type": "SECTION",
+    "label": "Full Stack Intro. 甄選題目",
+    "payload": {
+     "x": 420,
+     "y": 975
+    },
+    "section": 5,
+    "next": 8
+   },
+   {
+    "type": "SECTION",
+    "label": "Full Stack Advanced Training Program",
+    "payload": {
+     "x": 0,
+     "y": 1050
+    },
+    "section": 6,
+    "next": 9
+   },
+   {
+    "type": "CONDITION",
+    "payload": {
+     "x": -24,
+     "y": 1172
+    },
+    "condition": {
+     "source": "CHOICE",
+     "question": {
+      "section": 6,
+      "question": 0
+     },
+     "choice": {
+      "section": 6,
+      "question": 0,
+      "choice": 0
+     }
+    },
+    "nextTrue": 10,
+    "nextFalse": 11
+   },
+   {
+    "type": "SECTION",
+    "label": "Full Stack Advanced 甄選題目",
+    "payload": {
+     "x": 420,
+     "y": 1275
+    },
+    "section": 7,
+    "next": 11
+   },
+   {
+    "type": "SECTION",
+    "label": "GPU Programming Training Program",
+    "payload": {
+     "x": 0,
+     "y": 1350
+    },
+    "section": 8,
+    "next": 12
+   },
+   {
+    "type": "CONDITION",
+    "payload": {
+     "x": 0,
+     "y": 1500
+    },
+    "condition": {
+     "source": "CHOICE",
+     "question": {
+      "section": 8,
+      "question": 0
+     },
+     "choice": {
+      "section": 8,
+      "question": 0,
+      "choice": 0
+     }
+    },
+    "nextTrue": 13,
+    "nextFalse": 14
+   },
+   {
+    "type": "SECTION",
+    "label": "GPU Programming 甄選題目",
+    "payload": {
+     "x": 420,
+     "y": 1575
+    },
+    "section": 9,
+    "next": 14
+   },
+   {
+    "type": "SECTION",
+    "label": "High Performance Computing Team",
+    "payload": {
+     "x": 0,
+     "y": 1650
+    },
+    "section": 10,
+    "next": 15
+   },
+   {
+    "type": "CONDITION",
+    "payload": {
+     "x": 0,
+     "y": 1800
+    },
+    "condition": {
+     "source": "CHOICE",
+     "question": {
+      "section": 10,
+      "question": 0
+     },
+     "choice": {
+      "section": 10,
+      "question": 0,
+      "choice": 0
+     }
+    },
+    "nextTrue": 16,
+    "nextFalse": 17
+   },
+   {
+    "type": "SECTION",
+    "label": "HPC Team 甄選題目",
+    "payload": {
+     "x": 420,
+     "y": 1875
+    },
+    "section": 11,
+    "next": 17
+   },
+   {
+    "type": "SECTION",
+    "label": "Site Reliability Engineering Team",
+    "payload": {
+     "x": 0,
+     "y": 1950
+    },
+    "section": 12,
+    "next": 18
+   },
+   {
+    "type": "CONDITION",
+    "payload": {
+     "x": 0,
+     "y": 2100
+    },
+    "condition": {
+     "source": "CHOICE",
+     "question": {
+      "section": 12,
+      "question": 0
+     },
+     "choice": {
+      "section": 12,
+      "question": 0,
+      "choice": 0
+     }
+    },
+    "nextTrue": 19,
+    "nextFalse": 20
+   },
+   {
+    "type": "SECTION",
+    "label": "SRE Team 甄選題目",
+    "payload": {
+     "x": 420,
+     "y": 2175
+    },
+    "section": 13,
+    "next": 20
+   },
+   {
+    "type": "SECTION",
+    "label": "Project Teams",
+    "payload": {
+     "x": 0,
+     "y": 2250
+    },
+    "section": 14,
+    "next": 21
+   },
+   {
+    "type": "CONDITION",
+    "payload": {
+     "x": 0,
+     "y": 2400
+    },
+    "condition": {
+     "source": "CHOICE",
+     "question": {
+      "section": 14,
+      "question": 0
+     },
+     "choice": {
+      "section": 14,
+      "question": 0,
+      "choice": 0
+     }
+    },
+    "nextTrue": 22,
+    "nextFalse": 23
+   },
+   {
+    "type": "SECTION",
+    "label": "Project Team 甄選題目",
+    "payload": {
+     "x": 420,
+     "y": 2475
+    },
+    "section": 15,
+    "next": 23
+   },
+   {
+    "type": "SECTION",
+    "label": "Program Match",
+    "payload": {
+     "x": 0,
+     "y": 2550
+    },
+    "section": 16,
+    "next": 24
+   },
+   {
+    "type": "SECTION",
+    "label": "SDC Summit 社員大會暨迎新茶會",
+    "payload": {
+     "x": 0,
+     "y": 2700
+    },
+    "section": 17,
+    "next": 25
+   },
+   {
+    "type": "END",
+    "label": "確認/送出",
+    "payload": {
+     "x": 0,
+     "y": 2850
+    }
+   }
+  ]
+ }
+]

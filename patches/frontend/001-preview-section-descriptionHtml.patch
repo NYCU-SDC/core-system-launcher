@@ -1,0 +1,12 @@
+diff --git a/src/features/form/components/AdminFormPreviewPage.tsx b/src/features/form/components/AdminFormPreviewPage.tsx
+index 4179b23..3313fe6 100644
+--- a/src/features/form/components/AdminFormPreviewPage.tsx
++++ b/src/features/form/components/AdminFormPreviewPage.tsx
+@@ -51,6 +51,7 @@ export const AdminFormPreviewPage = () => {
+ 			formId: item.section.formId,
+ 			title: item.section.title,
+ 			description: item.section.description,
++			descriptionHtml: item.section.descriptionHtml,
+ 			questions: item.questions ?? []
+ 		}));
+ 

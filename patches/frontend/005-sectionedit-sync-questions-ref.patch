@@ -1,0 +1,25 @@
+diff --git a/src/features/form/components/AdminFormDetailPages/SectionEditPage.tsx b/src/features/form/components/AdminFormDetailPages/SectionEditPage.tsx
+index bf8d1a1..c73d498 100644
+--- a/src/features/form/components/AdminFormDetailPages/SectionEditPage.tsx
++++ b/src/features/form/components/AdminFormDetailPages/SectionEditPage.tsx
+@@ -116,10 +116,16 @@ export const AdminSectionEditPage = () => {
+ 	const setQuestions = useCallback(
+ 		(updater: Question[] | ((prev: Question[]) => Question[]), checkpoint: "immediate" | "debounced" | "none" = "immediate") => {
+ 			setEditorState(
+-				prev => ({
+-					...prev,
+-					questions: typeof updater === "function" ? (updater as (prev: Question[]) => Question[])(prev.questions) : updater
+-				}),
++				prev => {
++					const nextQuestions = typeof updater === "function" ? (updater as (prev: Question[]) => Question[])(prev.questions) : updater;
++					// 和 setQuestionIdsAndRef 一樣同步更新 ref。
++					// flushDirtyQuestions 是從 onFold 之類的事件處理器同步呼叫的，
++					// 若等下面的 useEffect 才更新 ref，它會讀到編輯前的舊 question，
++					// 把舊內容 PUT 回後端，再由 syncQuestionFromApi 寫回 state，
++					// 使用者看到的就是「改了會變回去」。
++					questionsRef.current = nextQuestions;
++					return { ...prev, questions: nextQuestions };
++				},
+ 				{ checkpoint }
+ 			);
+ 		},

@@ -1,0 +1,28 @@
+diff --git a/src/features/form/utils/workflow.ts b/src/features/form/utils/workflow.ts
+index c98e03f..fa6e6d0 100644
+--- a/src/features/form/utils/workflow.ts
++++ b/src/features/form/utils/workflow.ts
+@@ -41,7 +41,12 @@ const evaluateCondition = (rule: FormWorkflowConditionRule | undefined, answers:
+ 
+ /**
+  * Traverse workflow from START using current answers.
+- * If a condition cannot be evaluated yet, traversal stops and later nodes stay hidden.
++ *
++ * A condition that cannot be evaluated yet (its question is unanswered) follows
++ * `nextFalse`, i.e. the path that skips the conditional branch. That keeps the rest
++ * of the form visible in the structure/progress bar instead of hiding everything
++ * after the first unanswered gate. Once the gate is answered with the matching
++ * choice, the branch section appears inline.
+  */
+ export const resolveVisibleSectionsFromWorkflow = (sections: FormsSection[], workflow: FormWorkflowNodeResponse[] | undefined, answers: WorkflowAnswers): FormsSection[] => {
+ 	if (!workflow || workflow.length === 0) return sections;
+@@ -73,8 +78,7 @@ export const resolveVisibleSectionsFromWorkflow = (sections: FormsSection[], wor
+ 
+ 		if (node.type === "CONDITION") {
+ 			const result = evaluateCondition(node.conditionRule, answers);
+-			if (result === null) break;
+-			cursor = result ? node.nextTrue : node.nextFalse;
++			cursor = result === true ? node.nextTrue : node.nextFalse;
+ 			continue;
+ 		}
+ 

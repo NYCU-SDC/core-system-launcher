@@ -1,0 +1,18 @@
+diff --git a/src/routes/RequireOrgAdminAccess.tsx b/src/routes/RequireOrgAdminAccess.tsx
+index f67a1b8..1008885 100644
+--- a/src/routes/RequireOrgAdminAccess.tsx
++++ b/src/routes/RequireOrgAdminAccess.tsx
+@@ -1,9 +1,13 @@
++import { useAuthRefreshInterval } from "@/features/auth/hooks/useAuth";
+ import { useOrgAdminAccess } from "@/features/auth/hooks/useOrgAdminAccess";
+ import { Navigate, Outlet } from "react-router-dom";
+ 
+ const RequireOrgAdminAccess = () => {
+ 	const { user, canAccessOrgAdmin, isLoading } = useOrgAdminAccess();
+ 
++	// 管理頁停留時間通常很長，沒有這個就會在 access token 過期時被登出
++	useAuthRefreshInterval();
++
+ 	if (isLoading) {
+ 		return null;
+ 	}
